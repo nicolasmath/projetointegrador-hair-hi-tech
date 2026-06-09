@@ -1,11 +1,11 @@
 ![GitHub License](https://img.shields.io/github/license/nicolasmath/lab-redes-01)
 
 # Projeto Integrador - Implantação de Infraestrutura de TI
-**Empresa:** Hair Hi-Tech  
+**Empresa:** Zetta Cloud & Security
 **Slogan:** Soluções tecnológicas e suporte em TI.
 
 <p align="center">
-  <img src="Logotipo.png" alt="Logo Hair Hi-Tech" width="500">
+  <img src="Logotipo.png" alt="Zetta Cloud & Security="500">
 </p>
 
 Alunos: Nicolas, Anna, Rafael, Sara, Gabriel M., Levy.
