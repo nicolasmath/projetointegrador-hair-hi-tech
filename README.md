@@ -1,2 +1,7 @@
-# projetointegrador-hair-hi-tech
-Documentação e apresentação de uma infraestrutura completa de TI.
+![GitHub License](https://img.shields.io/github/license/nicolasmath/lab-redes-01)
+
+# Projeto Integrador - Hair Hi Tech
+
+Alunos: Nicolas, Anna, Rafael, Sara, Gabriel Monteiro, Levy.
+
+---
