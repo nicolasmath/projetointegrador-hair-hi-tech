@@ -2,7 +2,6 @@
 
 # Projeto Integrador - Implantação de Infraestrutura de TI
 **Empresa:** Hair Hi-tech
-
 **Slogan:** Soluções tecnológicas e suporte em TI.
 
 <p align="center">
