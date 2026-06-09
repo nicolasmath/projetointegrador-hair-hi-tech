@@ -29,7 +29,10 @@ Ser a principal referência em terceirização e infraestrutura de TI para empre
 **Quantidade de Funcionários:** 15 colaboradores.
 
 ### Planta Baixa do Escritório
-![Planta Baixa Hair Hi-Tech](PlantaescritórioTI.png)
+
+<p align="center">
+  <img src="PlantaescritórioTI.png" alt="Logo Hair Hi-Tech" width="500">
+</p>
 
 ---
 
@@ -60,7 +63,10 @@ A rede está estruturada na subrede **192.168.20.0/24** para organizar os ativos
 ---
 
 ### Topologia Lógica do Cenário
-![Topologia da Rede](cenário.png)
+
+<p align="center">
+  <img src="cenário.png" alt="Logo Hair Hi-Tech" width="500">
+</p>
 
 ---
 
