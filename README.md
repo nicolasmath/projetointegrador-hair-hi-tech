@@ -57,6 +57,11 @@ A rede está estruturada na subrede **192.168.20.0/24** para organizar os ativos
 
 ---
 
+### Topologia Lógica do Cenário
+![Topologia da Rede](cenário.png)
+
+---
+
 ## 📂 Estrutura de Pastas do Repositório
 
 * `/packet-tracer`: Arquivos `.pkt` das topologias física e lógica.
