@@ -33,7 +33,7 @@ Ser a principal referência em terceirização e infraestrutura de TI para empre
 ### Planta Baixa do Escritório
 
 <p align="center">
-  <img src="PlantaescritórioTI.png" alt="Logo Hair Hi-Tech" width="500">
+  <img src="PlantaescritórioTI.png" alt="Logo Hair Hi-Tech" width="700">
 </p>
 
 ---
