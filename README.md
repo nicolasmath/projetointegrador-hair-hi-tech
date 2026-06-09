@@ -5,7 +5,7 @@
 **Slogan:** Soluções tecnológicas e suporte em TI.
 
 <p align="center">
-  <img src="Logotipo.png" alt="Zetta Cloud & Security="500">
+  <img src="Logotipo.png" alt="Zetta Cloud and Security="500">
 </p>
 
 Alunos: Nicolas, Anna, Rafael, Sara, Gabriel M., Levy.
