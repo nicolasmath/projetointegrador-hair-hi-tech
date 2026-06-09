@@ -7,7 +7,7 @@
 **Slogan:** Soluções tecnológicas e suporte em TI.
 
 <p align="center">
-  <img src="Logotipo.png" alt="Hair Hi-tech="500">
+  <img src="Logotipo.png" alt="Hair Hi-tech" width="500">
 </p>
 
 Alunos: Nicolas, Anna, Rafael, Sara, Gabriel M., Levy.
