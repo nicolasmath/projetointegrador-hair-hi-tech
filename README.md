@@ -4,6 +4,8 @@
 **Empresa:** Hair Hi-Tech  
 **Slogan:** Soluções tecnológicas e suporte em TI.
 
+![Logo Hair Hi-Tech](Logotipo.png)
+
 Alunos: Nicolas, Anna, Rafael, Sara, Gabriel M., Levy.
 
 ---
