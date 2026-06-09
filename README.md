@@ -50,6 +50,11 @@ Ser a principal referência em terceirização e infraestrutura de TI para empre
 
 A rede está estruturada na subrede **192.168.20.0/24** para organizar os ativos de forma estática e as estações de trabalho via DHCP.
 
+<h3 align="center">🌐 Topologia Lógica da Rede</h3>
+<p align="center">
+  <img src="Topologia.png" alt="Topologia da Rede - Cisco Packet Tracer" width="750">
+</p>
+
 ### Plano de Endereçamento IP
 
 | Equipamento / Serviço | Endereço IP | Interface | Função no Projeto |
