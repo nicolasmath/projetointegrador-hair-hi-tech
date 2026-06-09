@@ -28,9 +28,9 @@ Ser a principal referência em terceirização e infraestrutura de TI para empre
 
 ## 👥 Integrantes do Grupo e Funções (Kanban)
 
-* **[Nome do Integrante 1]** - Scrum Master & Sysadmin Windows (Active Directory, DNS, DHCP e GPOs).
-* **[Nome do Integrante 2]** - Sysadmin Linux & DevOps (Servidor Web Apache/Nginx, Banco de Dados e GLPI).
-* **[Nome do Integrante 3]** - Engenheiro de Redes (Topologias e Configurações no Cisco Packet Tracer).
+* **[Nicolas e Anna]** - Scrum Master & Sysadmin Windows (Active Directory, DNS, DHCP e GPOs).
+* **[Gabriel Monteiro e Sara]** - Sysadmin Linux & DevOps (Servidor Web Apache/Nginx, Banco de Dados e GLPI).
+* **[Rafael e Levy]** - Engenheiro de Redes (Topologias e Configurações no Cisco Packet Tracer).
 
 ---
 
