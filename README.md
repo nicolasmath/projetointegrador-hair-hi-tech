@@ -4,7 +4,7 @@
 **Empresa:** Hair Hi-Tech  
 **Slogan:** Soluções tecnológicas e suporte em TI.
 
-Alunos: Nicolas, Anna, Rafael, Sara, Gabriel Monteiro, Levy.
+Alunos: Nicolas, Anna, Rafael, Sara, Gabriel M., Levy.
 
 ---
 
