@@ -26,6 +26,9 @@ Ser a principal referência em terceirização e infraestrutura de TI para empre
 
 **Quantidade de Funcionários:** 15 colaboradores.
 
+### Planta Baixa do Escritório
+![Logo Hair Hi-Tech](Planta de escritório de TI.png)
+
 ---
 
 ## 👥 Integrantes do Grupo e Funções (Kanban)
