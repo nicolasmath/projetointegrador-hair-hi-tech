@@ -20,7 +20,7 @@ Alunos: Nicolas, Anna, Rafael, Sara, Gabriel M., Levy.
 Nossa missão é alinhar processos, blindar servidores e garantir o fluxo contínuo de dados, entregando um suporte em TI tão fluido, inteligente e sob medida que se torna invisível no dia a dia dos nossos parceiros.
 
 ### Visão
-Ser a principal referência em terceirização e infraestrutura de TI para empresas prestadoras de serviços até 2030, alcançando a marca de 100% de disponibilidade dos ambientes gerenciados e expandindo nossa operação com soluções automatizadas e alta retenção de clientes.
+Ser a principal referência em terceirização e infraestrutura de TI para empresas prestadoras de serviços, alcançando a marca de 100% de disponibilidade dos ambientes gerenciados e expandindo nossa operação com soluções automatizadas e alta retenção de clientes.
 
 ### Organograma Simplificado
 * **Diretoria:** CEO e CTO
