@@ -23,10 +23,11 @@ Nossa missão é alinhar processos, blindar servidores e garantir o fluxo contí
 Ser a principal referência em terceirização e infraestrutura de TI para empresas prestadoras de serviços, alcançando a marca de 100% de disponibilidade dos ambientes gerenciados e expandindo nossa operação com soluções automatizadas e alta retenção de clientes.
 
 ### Organograma Simplificado
+
 * **Diretoria:** CEO e CTO
 * **Administrativo / Financeiro:** RH e Faturamento
-* **Recepção:** Atendimento Inicial
-* **Suporte Técnico / Operações:** Analistas de Infraestrutura e Helpdesk
+* **Recepção:** Atendimento Inicial e Triagem
+* **Suporte Técnico / Operações:** Analistas de Infraestrutura, Redes e Helpdesk
 
 **Quantidade de Funcionários:** 15 colaboradores.
 
