@@ -80,14 +80,52 @@ A rede está estruturada na subrede **192.168.20.0/24** para organizar os ativos
 
 ## 📂 Estrutura de Pastas do Repositório
 
-* `/packet-tracer`: Arquivos `.pkt` das topologias física e lógica.
+* `/packet-tracer`: Arquivos `Topologia Zetta.pkt` das topologias física e lógica.
 * `/documentacao`: Planta baixa do escritório, relatórios e atas de reuniões.
 * `/scripts`: Scripts de automação ou arquivos de configuração dos servidores (Windows/Linux).
 
 ---
 
-## 🚀 Como Executar o Laboratório
+## 📸 Galeria de Implementação Física e Fases do Projeto
 
-1. Baixe o arquivo da topologia na pasta `/packet-tracer`.
-2. Abra no **Cisco Packet Tracer** (versão 8.X recomendada).
-3. Para testar os servidores web, abra o navegador de qualquer PC cliente e acesse o IP `192.168.20.30`.
+Abaixo está o registro cronológico das etapas de montagem, configuração e testes da nossa infraestrutura real.
+
+---
+
+### 🧱 Fase 1: Infraestrutura Física e Cabeamento
+*Nesta etapa, realizamos a identificação dos equipamentos de hardware, montagem dos racks e a confecção/crimpagem dos cabos de rede Cat.6 para interligar os computadores.*
+
+<p align="center">
+  <img src="documentacao/fotos/fase1_hardware.jpg" alt="Montagem do Hardware e Racks" width="400" style="margin: 10px;">
+  <img src="documentacao/fotos/fase1_cabeamento.jpg" alt="Crimpagem e Organização dos Cabos" width="400" style="margin: 10px;">
+</p>
+
+---
+
+### 💿 Fase 2: Instalação de Sistemas e Provisionamento
+*Instalação dos Sistemas Operacionais nas máquinas físicas. Configuração do ambiente de testes e carregamento de drivers específicos (como Intel RST) para o perfeito reconhecimento e desempenho dos SSDs e storages.*
+
+<p align="center">
+  <img src="documentacao/fotos/fase2_instalacao_os.jpg" alt="Instalação do SO nas Máquinas" width="400" style="margin: 10px;">
+  <img src="documentacao/fotos/fase2_virtualizacao.jpg" alt="Configuração de Hipervisores e Servidores" width="400" style="margin: 10px;">
+</p>
+
+---
+
+### 🔑 Fase 3: Configuração dos Serviços de Rede
+*Momento em que os Sysadmins e Engenheiros de Rede colocaram a inteligência do projeto para rodar: criação do Controlador de Domínio no Windows Server, subida das diretivas (GPOs), escopo DHCP ativo e inicialização dos servidores Linux (GLPI e Web).*
+
+<p align="center">
+  <img src="documentacao/fotos/fase3_windows_server.jpg" alt="Painel do Active Directory e DHCP" width="400" style="margin: 10px;">
+  <img src="documentacao/fotos/fase3_linux_glpi.jpg" alt="Servidores Linux e Tela de Chamados GLPI" width="400" style="margin: 10px;">
+</p>
+
+---
+
+### 🧪 Fase 4: Testes de Conectividade e Homologação
+*Validação final de que tudo funciona de verdade no mundo real. Telas comprovando o recebimento de IPs automáticos pelas estações de trabalho, testes de ping e o funcionamento do Firewall de borda isolando a rede.*
+
+<p align="center">
+  <img src="documentacao/fotos/fase4_testes_ping.jpg" alt="Testes de Conectividade com Ping" width="400" style="margin: 10px;">
+  <img src="documentacao/fotos/fase4_homologacao.jpg" alt="Infraestrutura Pronta e Funcionando" width="400" style="margin: 10px;">
+</p>
