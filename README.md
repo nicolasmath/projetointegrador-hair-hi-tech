@@ -7,7 +7,7 @@
 **Slogan:** Soluções tecnológicas e suporte em TI.
 
 <p align="center">
-  <img src="Logotipo.png" alt="Zetta" width="500">
+  <img src="Logotipo.png" alt="Zetta" width="450">
 </p>
 
 Alunos: Nicolas, Anna, Rafael, Sara, Gabriel M., Levy.
