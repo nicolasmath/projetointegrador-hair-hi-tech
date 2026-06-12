@@ -96,7 +96,7 @@ Abaixo está o registro cronológico das etapas de montagem, configuração e te
 *Nesta etapa, realizamos a identificação dos equipamentos de hardware, montagem dos racks e a confecção/crimpagem dos cabos de rede Cat.6 para interligar os computadores.*
 
 <p align="center">
-  <img src="documentacao/fotos/fase1_hardware.jpg" alt="Montagem do Hardware e Racks" width="400" style="margin: 10px;">
+  <img src="Switch.jpg" alt="Montagem do Hardware e Racks" width="400" style="margin: 10px;">
   <img src="Crimpagem.jpg" alt="Crimpagem e Organização dos Cabos" width="400" style="margin: 10px;">
 </p>
 
