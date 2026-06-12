@@ -106,8 +106,8 @@ Abaixo está o registro cronológico das etapas de montagem, configuração e te
 *Instalação dos Sistemas Operacionais nas máquinas físicas. Configuração do ambiente de testes e carregamento de drivers específicos (como Intel RST) para o perfeito reconhecimento e desempenho dos SSDs e storages.*
 
 <p align="center">
-  <img src="documentacao/fotos/fase2_instalacao_os.jpg" alt="Instalação do SO nas Máquinas" width="400" style="margin: 10px;">
-  <img src="documentacao/fotos/fase2_virtualizacao.jpg" alt="Configuração de Hipervisores e Servidores" width="400" style="margin: 10px;">
+  <img src="Debian.jpg" alt="Instalação do SO nas Máquinas" width="400" style="margin: 10px;">
+  <img src="Win.jpg" alt="Configuração de Hipervisores e Servidores" width="400" style="margin: 10px;">
 </p>
 
 ---
